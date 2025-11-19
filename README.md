@@ -11,7 +11,7 @@
 
   <li><b>Kotlin / Android</b>
     <ul>
-      <li><a href="https://github.com/yourusername/CafeOrderingApp" target="_blank">Cafe Ordering App</a> – Android application for ordering and managing café items, with cart functionality, order tracking, and user reviews.</li>
+      <li><a href="https://github.com/Chidera-Umezurike/Cafe-Ordering-App-" target="_blank">Cafe Ordering App</a> – Android application for ordering and managing café items, with cart functionality, order tracking, and user reviews.</li>
       <li><a href="https://github.com/Chidera-Umezurike/Bank-App/tree/main" target="_blank">Banking App with Fraud Detection</a> – Final year project integrating Plaid API and machine learning-based fraud detection, featuring a clean and responsive UI designed with Material Design principles.</li>
     </ul>
   </li>
