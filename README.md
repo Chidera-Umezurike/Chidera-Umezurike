@@ -28,7 +28,7 @@
       </li>
       <li>
         <a href="https://github.com/Chidera-Umezurike/Business-Research-Website" target="_blank">Business Research Hub Website</a> – Wix-based business research site focusing on clear information architecture, intuitive navigation, and responsive UX. Includes wireframing, user journey mapping, and iterative design for launch readiness.
-        **Live Site:** [https://businessresearchhub.co.uk](https://businessresearchhub.co.uk)
+        **Live Site:** (https://businessresearchhub.co.uk)
       </li>
     </ul>
   </li>
