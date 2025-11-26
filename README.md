@@ -15,7 +15,8 @@
     <b>Kotlin / Android</b>
     <ul>
       <li>Cafe Ordering App – Android application for ordering and managing café items, with cart functionality, order tracking, and user reviews.</li>
-      <li>Banking App with Fraud Detection – Final year project integrating Firebase and a rules-based fraud detection system, featuring a clean and responsive UI designed with Material Design principles.</li>
+      <li>
+         <a href="https://github.com/yourusername/Developer-Portfolio" target="_blank">Banking App with Fraud Detection</a> – Final year project integrating Firebase and a rules-based fraud detection system, featuring a clean and responsive UI designed with Material Design principles.</li>
     </ul>
   </li>
 
