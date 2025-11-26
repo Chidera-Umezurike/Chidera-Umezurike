@@ -21,7 +21,7 @@
         <a href="https://github.com/yourusername/Developer-Portfolio" target="_blank">Developer Portfolio Website</a> – Responsive personal portfolio built with HTML, CSS, and JavaScript, showcasing projects with embedded GitHub links and interactive UI elements.
       </li>
       <li>
-        <a href="https://github.com/Chidera-Umezurike/Business-Research-Website" target="_blank">Business Research Hub Website</a> – Wix-based business research site focusing on clear information architecture, intuitive navigation, and responsive UX. Includes wireframing, user journey mapping, and iterative design for launch readiness. --**Live Site:** (https://businessresearchhub.co.uk)
+        <a href="https://github.com/Chidera-Umezurike/Business-Research-Website" target="_blank">Business Research Hub Website</a> – WordPress-based business research site focusing on clear information architecture, intuitive navigation, and responsive UX. Includes wireframing, user journey mapping, and iterative design for launch readiness. --**Live Site:** (https://businessresearchhub.co.uk)
       </li>
     </ul>
   </li>
