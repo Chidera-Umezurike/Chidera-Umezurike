@@ -14,10 +14,4 @@
       <li><a href="https://github.com/yourusername/Developer-Portfolio" target="_blank">Developer Portfolio Website</a> – Responsive personal portfolio built with HTML, CSS, and JavaScript, showcasing projects with embedded GitHub links and interactive UI elements.</li>
     </ul>
   </li>
-
-  <li><b>DevOps & Architecture (Internship Experience)</b>
-    <ul>
-      <li>Designed and implemented secure CI/CD pipelines and zero-trust architecture diagrams to improve development security and automate workflows during internship at AMC.</li>
-    </ul>
-  </li>
 </ul>
