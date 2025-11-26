@@ -8,7 +8,7 @@
 
 <h1>Hi, I'm Chidera! 👋</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Personal Projects:</h2>
 
 <ul>
   <li>
