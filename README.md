@@ -2,13 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<ul>
-  <li><b>C# / ASP.NET Core</b>
-    <ul>
-      <li><a href="https://github.com/yourusername/Task-Tracker-API" target="_blank">Task Tracker API</a> – A RESTful API for task management built with ASP.NET Core, Entity Framework, and SQL Server. Features include authentication, role-based access control, automated testing, and CI/CD pipelines using GitHub Actions.</li>
-    </ul>
-  </li>
-
   <li><b>Kotlin / Android</b>
     <ul>
       <li><a href="https://github.com/Chidera-Umezurike/Cafe-Ordering-App-" target="_blank">Cafe Ordering App</a> – Android application for ordering and managing café items, with cart functionality, order tracking, and user reviews.</li>
